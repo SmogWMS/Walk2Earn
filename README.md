@@ -98,3 +98,5 @@ MIT - open source for the Celo community ❤️
 
 🦶 Logo
 
+Logo file is included: logo/walk2earn_logo.png
+
