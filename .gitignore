@@ -1,0 +1,8 @@
+node_modules/
+packages/hardhat/artifacts/
+packages/hardhat/cache/
+packages/hardhat/deployments/
+packages/frontend/.next/
+packages/backend/node_modules/
+.env
+.DS_Store
