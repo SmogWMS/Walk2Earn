@@ -71,8 +71,6 @@ Planned upgrades include:
 
 ### 1. Install dependencies
 
-```bash
-yarn install
 yarn install
 
 ### 2. Compile contracts
