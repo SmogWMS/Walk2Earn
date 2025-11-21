@@ -96,6 +96,7 @@ MIT - open source for the Celo community ❤️
 
 ## 🦶 Logo
 
-![Uploading ChatGPT Image 21 nov. 2025, 17_58_55.png…]()
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a61fe730-184e-4ab5-aca9-86d26347bbf6" />
+
 
 
