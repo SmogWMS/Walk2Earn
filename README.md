@@ -75,28 +75,28 @@ Planned upgrades include:
 yarn install
 yarn install
 
-2. Compile contracts
+### 2. Compile contracts
 
 npx hardhat compile
 
-3. Run the backend
+### 3. Run the backend
 
 yarn backend
 
-4. Run the frontend
+### 4. Run the frontend
 
 yarn dev
 
-🎯 Deployment
+## 🎯 Deployment
 Deploy to Celo Alfajores
 
 npx hardhat run hardhat/deploy.ts --network alfajores
 
-🪪 License
+## 🪪 License
 
 MIT - open source for the Celo community ❤️
 
-🦶 Logo
+## 🦶 Logo
 
 Logo file is included: logo/walk2earn_logo.png
 
