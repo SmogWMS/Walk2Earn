@@ -96,5 +96,6 @@ MIT - open source for the Celo community ❤️
 
 ## 🦶 Logo
 
-Logo file is included: logo/walk2earn_logo.png
+![Uploading ChatGPT Image 21 nov. 2025, 17_58_55.png…]()
+
 
